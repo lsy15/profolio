@@ -23,6 +23,6 @@ This repository contains various data science projects I have worked on, showcas
 - **Details**: [Project 1 Details](Copy_of_Case_4_Employee_Attrition_with_Random_Forest.ipynb)
 
 ### Project 2:Predicting House_Prices with Linear Regression
-- **Objective**: Forecast sales using time series analysis.
-- **Technologies**: Python, Statsmodels, Seaborn, Excel
+- **Objective**:  Predict house prices in King County based on specific characteristics using a linear regression model.
+- **Technologies**: Python, Pandas, Statsmodels, Seaborn, Matplotlib, Scikit-learn
 - **Details**: [Project 2 Details](Copy_of_Predicting_House_Prices.ipynb)
