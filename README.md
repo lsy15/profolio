@@ -7,7 +7,7 @@ This repository contains various data science projects I have worked on, showcas
 ### Project 1: Employee Attrition Prediction
 - **Objective**: Predict employee attrition using machine learning models.
 ### Libraries
-- **Pandas,NumPy,Matplotlib & Seaborn,Scikit-learn,Statsmodels**
+- **Pandas, NumPy, Matplotlib & Seaborn, Scikit-learn, Statsmodels**
 
 ### Methods
 - **Exploratory Data Analysis (EDA)**:
