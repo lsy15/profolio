@@ -40,7 +40,7 @@ This repository contains various data science projects I have worked on, showcas
   - **R² (Coefficient of Determination):** Indicates the proportion of variance in the dependent variable that is predictable from the independent variables. Increases as the number of epochs increases.
 
 **Conclusion:** The model primarily aims to predict the price of Toyota Corolla cars. Performance metrics suggest that increasing the number of epochs improves the model's accuracy and predictive capability, although practical limitations should be considered.
-- **Details**: [Project 3 Details](ToyotaCorolla-neural network.xlsx)
+- **Details**:  [Project 3 Details]( )
 
 ## Project 4: Break-Even Analysis and Profit Optimization for Athena I Bicycles
 
