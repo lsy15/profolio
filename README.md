@@ -24,5 +24,5 @@ This repository contains various data science projects I have worked on, showcas
 
 ### Project 2:Predicting House_Prices with Linear Regression
 - **Objective**:  Predict house prices in King County based on specific characteristics using a linear regression model.
-- **Technologies**: Python, Pandas, Statsmodels, Seaborn, Matplotlib, Scikit-learn
+- **Methods**: Python, Pandas, Statsmodels, Seaborn, Matplotlib, Scikit-learn
 - **Details**: [Project 2 Details](Copy_of_Predicting_House_Prices.ipynb)
