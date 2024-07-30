@@ -12,4 +12,4 @@ This repository contains various data science projects I have worked on, showcas
 ### Project 2: Sales Forecasting
 - **Objective**: Forecast sales using time series analysis.
 - **Technologies**: Python, Statsmodels, Seaborn, Excel
-- **Details**: [Project 2 Details](project2_folder/README.md)
+- **Details**: [Project 2 Details](Copy_of_Predicting_House_Prices.ipynb)
