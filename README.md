@@ -26,7 +26,7 @@ This repository contains various data science projects I have worked on, showcas
     - **Random Forest Classifier**: For its robustness and performance.
     - **Gradient Boosting Classifier**: For advanced boosting techniques.
   - Hyperparameter tuning with `GridSearchCV`.
-- **Details**: [Project 1 Details]
+- **Details**: [Project 1 Details](Copy_of_Case_4_Employee_Attrition_with_Random_Forest.ipynb)
 
 ### Project 2:Predicting House_Prices with Linear Regression
 - **Objective**: Forecast sales using time series analysis.
