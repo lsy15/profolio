@@ -57,4 +57,4 @@ This repository contains various data science projects I have worked on, showcas
 **Findings:**
 - **Solver Result:** A solution was found that satisfies all constraints and optimality conditions.
 - **Pivot Table Analysis:** Generated to visualize the product mix and profit distribution.
-- **Details**: [Project 4 Details]()
+- **Details**: [Project 4 Details]
