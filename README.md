@@ -6,8 +6,27 @@ This repository contains various data science projects I have worked on, showcas
 
 ### Project 1: Employee Attrition Prediction
 - **Objective**: Predict employee attrition using machine learning models.
-- **Technologies**: Python, Pandas, Scikit-learn, Matplotlib, Excel
-- **Details**: [Project 1 Details](project1_folder/README.md)
+### Libraries
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical operations.
+- **Matplotlib & Seaborn**: For data visualization.
+- **Scikit-learn**: For machine learning models and preprocessing.
+- **Statsmodels**: For statistical modeling and hypothesis testing.
+
+### Methods
+
+- **Exploratory Data Analysis (EDA)**:
+  - Visualizing distributions and relationships using `Matplotlib` and `Seaborn`.
+  - Correlation analysis to identify relationships between features.
+
+- **Model Building**:
+  - Splitting the dataset into training and testing sets using `train_test_split`.
+  - Building various classification models:
+    - **Logistic Regression**: For baseline modeling.
+    - **Random Forest Classifier**: For its robustness and performance.
+    - **Gradient Boosting Classifier**: For advanced boosting techniques.
+  - Hyperparameter tuning with `GridSearchCV`.
+- **Details**: [Project 1 Details]
 
 ### Project 2:Predicting House_Prices with Linear Regression
 - **Objective**: Forecast sales using time series analysis.
