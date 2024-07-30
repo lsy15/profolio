@@ -26,3 +26,18 @@ This repository contains various data science projects I have worked on, showcas
 - **Objective**:  Predict house prices in King County based on specific characteristics using a linear regression model.
 - **Methods**: Python, Pandas, Statsmodels, Seaborn, Matplotlib, Scikit-learn
 - **Details**: [Project 2 Details](Copy_of_Predicting_House_Prices.ipynb)
+
+## Project 3: Predicting Toyota Corolla Prices with Neural Networks
+
+**Objective:** Predict the price of Toyota Corolla cars using a neural network, focusing on the impact of training epochs on model performance.
+
+**Technologies:** Data Mining in Excel
+
+**Details:**
+- **Data Used:** Features of Toyota Corolla cars, including but not limited to engine size, fuel type, and mileage.
+- **Model:** Neural Network trained using the Data Mining package within Excel.
+- **Evaluation Metrics:**
+  - **RMS (Root Mean Square Error):** Measures the average magnitude of the prediction errors. Decreases as the number of epochs increases.
+  - **R² (Coefficient of Determination):** Indicates the proportion of variance in the dependent variable that is predictable from the independent variables. Increases as the number of epochs increases.
+
+**Conclusion:** The model is primarily aimed at predicting the price of Toyota Corolla cars. Performance metrics suggest that increasing the number of epochs improves the model's accuracy and predictive capability, although practical limitations should be considered.
